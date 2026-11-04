@@ -1,6 +1,6 @@
 # CDN Publik
 
-Repositori ini menyimpan aset statis (logo dan gambar) yang digunakan di beberapa project saya. Aset dapat diakses oleh siapa saja melalui jsDelivr, dengan memperhatikan bagian Hak Penggunaan di bawah.
+Repositori ini menyimpan aset statis (logo dan gambar) yang digunakan di beberapa project saya. Aset dapat diakses oleh siapa saja melalui [jsDelivr](https://www.jsdelivr.com/), dengan memperhatikan bagian [Hak Penggunaan](#hak-penggunaan) di bawah.
 
 ## Cara Menggunakan
 
