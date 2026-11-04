@@ -11,7 +11,7 @@ https://cdn.jsdelivr.net/gh/alfiankhusnul/cdn@{kode_versi}/{nama_lengkap_file_de
 
 Contoh untuk mengakses logo bps maka digunakan link aset sebagai berikut:
 ```
-https://cdn.jsdelivr.net/gh/alfiankhusnul/cdn@{v1.0.0}/logo_bps.webp
+https://cdn.jsdelivr.net/gh/alfiankhusnul/cdn@v1.0.0/logo_bps.webp
 ```
 
 ## Hak Penggunaan
